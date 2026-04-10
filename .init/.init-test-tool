@@ -1,0 +1,4 @@
+{
+    "command": "npm run test",
+    "working_directory": "/tmp/code-generation/dark-mode-tic-tac-toe-2418-2437/frontend_react_app"
+}
